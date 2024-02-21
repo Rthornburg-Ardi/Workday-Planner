@@ -15,9 +15,9 @@ This is a worday planner that allows for simple task managment. It was designed 
 
 To access the app you can either download the code on the GitHub repository (provided below) and open it in a live server, or use the hosted url privided below.
 
-GitHub Repository:
+GitHub Repository: https://github.com/Rthornburg-Ardi/Workday-Planner
 
-Hosted URL:
+Hosted URL: https://rthornburg-ardi.github.io/Workday-Planner/
 
 ## Usage
 
